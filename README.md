@@ -20,7 +20,5 @@
 	start bootstrap からFree のテーマをインストールし自分のリポジトリで公開
 	
 5. ブラウザで確認
-        ```
-　　　　　https://y-arimura1222.github.io/	
-        ```
-	
+　　　　　[こちら](https://y-arimura1222.github.io/)
+     
